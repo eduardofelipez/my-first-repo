@@ -6,4 +6,4 @@ Created on Thu Oct  8 10:14:47 2020
 """
 
 def func(a, b):
-    return a + b
+    return a * b
